@@ -1,0 +1,42 @@
+::-moz-selection {background:#009bcb;color: #fff;}
+.sidebar-home ul { background:#FFF}
+.cart-header:hover{background: #009bcb;-moz-transition:all ease 200ms;-ms-transition:all ease 200ms;-o-transition:all ease 200ms;-webkit-transition:all ease 200ms;}
+.cart-header:hover>a p{background: #fff !important;}
+.cart-header p{background: #009bcb;}
+.cart-hover{background: #009bcb;}
+.menu-header{background: #009bcb;}
+.menu-header nav{background: #009bcb;}
+.menu-header nav ul li:hover{background: #0086af;}
+.menu-header nav ul li ul li{background:#009bcb;}
+.search-header  .yith-ajaxsearchform-container form {border:2px solid #00337a}
+.opt-content-top .list-opt-content-top i.fa {  color:#f7931e}
+.search-header  .yith-ajaxsearchform-container form #yith-searchsubmit { background:#00337a;}
+#carousel-slider-home .carousel-control{background: #009bcb !important;}
+.sidebar-home h6{background: #009bcb;}
+.list-slider-fashion span.onsale, .slider-top-buy span.onsale, .slider-detail span.onsale{background: #3f5c9a;}
+.list-slider-fashion span a{background: #adadad;}
+.list-slider-fashion span:hover a{background: #ff3420;}
+.slider-prod-cost-down{background: #f8f8f8;}
+.slider-top-buy .item{background: #f8f8f8;}
+.text-slider-top-buy span a{background: #adadad;}
+.text-slider-top-buy span a:hover{background: #f00;}
+.copyright{background: #f5f5f5;}
+.sidebar-home .widget_price_filter form .ui-slider-range.ui-widget-header.ui-corner-all{background: #009bcb;}
+.sidebar-home .price_slider_amount button[type="submit"]:hover{background: #009bcb !important;}
+.cont-promo-sidebar{background: #f8f8f8;}
+.woocommerce-pagination ul li a, .woocommerce-pagination ul li span{background: #ededed;}
+.woocommerce-pagination ul li a:hover, .woocommerce-pagination ul li span{background: #009bcb !important;}
+.info-detail button[type="submit"]{background: #428bca !important;}
+.qti-prod form a.view-cart{background: #bfbfbf;}
+.title-info-service p{background: #009bcb;}
+.tab-prod-rel .nav-tabs>li.active>a, .tab-prod-rel .nav-tabs>li.active>a:hover, .tab-prod-rel .nav-tabs>li.active>a:focus{background: #009bcb;}
+.post_page .woocommerce form table tbody tr td input[type="submit"]{background: #009bcb;}
+.post_page .woocommerce form table tbody tr td input[type="submit"].checkout-button{background: #003A4B;}
+.order-client button{background: #009bcb;}
+.post_page .ninja-forms-cont .field-wrap input[type="text"]{background: #fbfbfb;}
+.post_page .ninja-forms-cont .field-wrap input[type="submit"]{background: #009bcb;}
+.title-section span:before{background: #009bcb;}
+.product_list_widget{background: #f8f8f8;}
+.woocommerce .woocommerce-message:before, .woocommerce-page .woocommerce-message:before{background: #009bcb;}
+.woocommerce-message a.button:hover{background: #009bcb;color: #fff !important;}
+.footer.footer {background: #00337a ;}

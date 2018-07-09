@@ -1,0 +1,50 @@
+/** Carousel **/
+.jcarousel {
+    position: relative;
+    overflow: hidden;
+    height: 140px;
+}
+
+.jcarousel ul {
+    width: 20000em;
+    position: absolute;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.jcarousel li {
+    float: left;
+    width: 133px;
+    height: 140px;
+    margin: 0 10px;
+	text-align: center;
+	overflow: hidden;
+}
+
+.jcarousel a {
+	color: #000;
+}
+
+/** Carousel Controls **/
+.jcarousel-prev,
+.jcarousel-next {
+    position: absolute;
+    top: 0;
+    width: 20px;
+    height: 100px;
+}
+
+.jcarousel-prev {
+    left: 0;
+}
+
+.jcarousel-next {
+    right: 0;
+}
+
+.jcarousel-prev.inactive,
+.jcarousel-next.inactive {
+    opacity: .5;
+    cursor: default;
+}
